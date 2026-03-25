@@ -165,11 +165,11 @@ print("模型回复：", response)
 python model_infer.py
 ```
 
-![17b47be85a544c239988e86d1c6e10f5](C:\Users\毛姐\AppData\Local\Temp\17b47be85a544c239988e86d1c6e10f5.png)
+<img width="720" height="114" alt="4ee0e1a027ce45a3a5c8f5f00426be92" src="https://github.com/user-attachments/assets/7be34bfb-6bab-4fce-a860-19d38729c028" />
 
-![3a7d02f277b0436baefd949dfd57caa9](C:\Users\毛姐\AppData\Local\Temp\3a7d02f277b0436baefd949dfd57caa9.png)
+<img width="1440" height="169" alt="2c5f3f7b8c4d41d7ad6a7cb3f8e06735" src="https://github.com/user-attachments/assets/afdb8b64-50c9-4208-b556-0a78f3d49a41" />
 
-![a499e201cfde4d8f82d13b5d26b74e5c](C:\Users\毛姐\AppData\Local\Temp\a499e201cfde4d8f82d13b5d26b74e5c.png)
+<img width="1427" height="473" alt="7e89de1957784599bd12e16ca1be0199" src="https://github.com/user-attachments/assets/a25e2aa1-3b23-4141-9378-b2355e468076" />
 
 ## 五、构建 ChatBot 网页交互应用
 
@@ -207,19 +207,19 @@ python web_demo.py
 
 启动成功后，打开浏览器，输入本地访问地址：
 
-![e11116c523244dceafa061a3c4b68db0](C:\Users\毛姐\AppData\Local\Temp\e11116c523244dceafa061a3c4b68db0.png)
+<img width="720" height="75" alt="4ce70441df634652a5bddbd278e088a3" src="https://github.com/user-attachments/assets/1a88ac9d-e0b9-4d23-b363-86704c63dbc0" />
 
-![a5e0c88c2e6d4f7a81da97d2f176dde2](C:\Users\毛姐\AppData\Local\Temp\a5e0c88c2e6d4f7a81da97d2f176dde2.png)
+<img width="1440" height="197" alt="f8ca204a00974a3d87343d2364c0b31c" src="https://github.com/user-attachments/assets/596e912f-aba5-462d-8897-6ea88ea0fa0a" />
 
-![7f07c6c6abb44634a13d8d159f0a49be](C:\Users\毛姐\AppData\Local\Temp\7f07c6c6abb44634a13d8d159f0a49be.png)
+<img width="1440" height="198" alt="1f1905edb8cf4a1990f1101b7eceaaf1" src="https://github.com/user-attachments/assets/761b204b-2333-429d-b43b-e9c6694d521e" />
 
 在网页的对话框中输入问题，点击`Submit`即可与模型对话，支持清空历史、重新生成等功能。
 
-![60516ec56b604ac191b6b2b8761e2f0b](C:\Users\毛姐\AppData\Local\Temp\60516ec56b604ac191b6b2b8761e2f0b.png)
+<img width="1238" height="754" alt="134b39199f0847ca8b1a49fa0f2b98b5" src="https://github.com/user-attachments/assets/4fe26bcd-26fe-47c8-a5f0-370fcfb77a9c" />
 
-![ca95b8a3f16f47068784cb14e2a4dc0e](C:\Users\毛姐\AppData\Local\Temp\ca95b8a3f16f47068784cb14e2a4dc0e.png)
+<img width="2488" height="1518" alt="fa11d1cbf6084c17a9555b05b6b99174" src="https://github.com/user-attachments/assets/39e7b7f8-a921-45ae-9ef5-d641aede0366" />
 
-![2fde18c9657f42808d85745b931933c2](C:\Users\毛姐\AppData\Local\Temp\2fde18c9657f42808d85745b931933c2.png)
+<img width="2560" height="1423" alt="7666b594d7e7415cbdf9bf9c2cb8bb05" src="https://github.com/user-attachments/assets/6cd5241f-9611-48cd-a083-38257b86e291" />
 
 ## 六、ChatBot 核心构建逻辑
 
