@@ -1,0 +1,7 @@
+# 忽略Qwen模型权重（核心！）
+model_weights/
+*.bin
+*.safetensors
+*.pth
+__pycache__/
+*.pyc
